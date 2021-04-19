@@ -1,0 +1,124 @@
+{
+  "base_font": "fort-sans",
+  "palette": "cyan",
+  "favicon": "images/Flit.svg",
+  "header": {
+    "logo_img": "images/Flit.svg",
+    "company_logo_img": "images/ust_logo.png",
+    "logo_img_alt": "Logo",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "label": "Approach",
+        "url": "/approach",
+        "style": "link"
+      },
+      {
+        "label": "Solutions",
+        "url": "/solutions",
+        "style": "link"
+      },
+      {
+        "label": "Insights",
+        "url": "/insights",
+        "style": "link"
+      },
+      {
+        "label": "Themes",
+        "url": "/themes",
+        "style": "link"
+      },
+      {
+        "label": "About Us",
+        "url": "/about",
+        "style": "link"
+      },
+      {
+        "label": "Contact Us",
+        "url": "/contact",
+        "style": "secondary-contact"
+      }
+    ],
+    "anchor_links": [
+      {
+        "label": "The Challenge",
+        "url": "#thechallenge",
+        "id": "thechallenge",
+        "style": "link"
+      },
+      {
+        "label": "Our Solution",
+        "url": "#oursolution",
+        "id": "oursolution",
+        "style": "link"
+      },
+      {
+        "label": "Key Features",
+        "url": "#keyfeatures",
+        "id": "keyfeatures",
+        "style": "link"
+      },
+      {
+        "label": "How it Works",
+        "url": "#howitworks",
+        "id": "howitworks",
+        "style": "link"
+      },
+      {
+        "label": "Contact Us",
+        "url": "#contact",
+        "style": "secondary-contact"
+      }
+    ]
+  },
+  "footer": {
+    "swiftlogo": "images/swiftsightlogo_dark.png",
+    "swiftlogo_alt": "SwiftSight",
+    "sections": [
+      {
+        "type": "footer_text",
+        "image": "images/swiftsightlogo_dark.svg",
+        "image_url": "/",
+        "image_alt": "Footer logo",
+        "content": "Get in contact with us by filling out the form",
+        "title": "Have a question ?",
+        "submit_label": "Get In Touch"
+      },
+      {
+        "type": "footer_nav",
+        "title": "",
+        "nav_links": [
+          {
+            "label": "Approach",
+            "url": "/",
+            "style": "link"
+          },
+          {
+            "label": "Solutions",
+            "url": "/solutions",
+            "style": "link"
+          },
+          {
+            "label": "Insights",
+            "url": "/insights",
+            "style": "link"
+          },
+          {
+            "label": "Themes",
+            "url": "/themes",
+            "style": "link"
+          },
+          {
+            "label": "About Us",
+            "url": "/about",
+            "style": "link"
+          }
+        ]
+      }
+    ],
+    "has_nav": true,
+    "content": "© Temus. All rights reserved. This website was powered with"
+  },
+  "title": "Flit",
+  "domain": "https://swiftsight-3f732.stackbit.dev"
+}
